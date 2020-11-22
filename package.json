@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cursonode",
+  "description": "Repositorio do Curso NodeJS Hcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toolivei/cursonode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Tompson Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toolivei/cursonode/issues"
+  },
+  "homepage": "https://github.com/toolivei/cursonode#readme"
+}
